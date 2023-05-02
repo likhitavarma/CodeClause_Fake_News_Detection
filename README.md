@@ -16,10 +16,9 @@ The following libraries are required to run this project:
 
 pandas
 scikit-learn
-Installation
+# Installation
 
-# To install the required libraries, run the following command:
-
+To install the required libraries, run the following command:
 pip install pandas scikit-learn
 
 # Usage
